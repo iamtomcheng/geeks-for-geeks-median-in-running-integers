@@ -46,3 +46,6 @@ Example 1:
 
 Example 2:
 [MedianFinder.cpp](MedianFinder.cpp)
+
+Example 3: (Reference: [http://ideone.com/5mZdiK](http://ideone.com/5mZdiK))
+[ideone.C](ideone.C)
