@@ -39,7 +39,7 @@ After processing an incoming element, the number of elements in heaps differ utm
 Given below is implementation of above method. For algorithm to build these heaps, please read the highlighted code.
 
 Example 1:
-geeks-for-geeks-median-in-running-integers/printMedian.cpp
+printMedian.cpp
 
 Example 2:
-geeks-for-geeks-median-in-running-integers/MedianFinder.cpp
+MedianFinder.cpp
