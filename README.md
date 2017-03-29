@@ -37,3 +37,9 @@ Similar to balancing BST in Method 2 above, we can use a max heap on left side t
 After processing an incoming element, the number of elements in heaps differ utmost by 1 element. When both heaps contain same number of elements, we pick average of heaps root data as effective median. When the heaps are not balanced, we select effective median from the root of heap containing more elements.
 
 Given below is implementation of above method. For algorithm to build these heaps, please read the highlighted code.
+
+Example 1:
+geeks-for-geeks-median-in-running-integers/printMedian.cpp
+
+Example 2:
+geeks-for-geeks-median-in-running-integers/MedianFinder.cpp
