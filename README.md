@@ -42,7 +42,7 @@ After processing an incoming element, the number of elements in heaps differ utm
 Given below is implementation of above method. For algorithm to build these heaps, please read the highlighted code.
 
 Example 1:
-printMedian.cpp
+[a link](printMedian.cpp)
 
 Example 2:
-MedianFinder.cpp
+[a link](MedianFinder.cpp)
